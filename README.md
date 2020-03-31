@@ -8,6 +8,7 @@ Repository for Deep Learning course at Columbia University, Spring 2020
 Project: Implement the Traveling Salesperson Problem using the MuZero Framework 
 
 Abstract:
+
 The MuZero algorithm which combines a treebased search (MCTS) with a learned neural model
 has proved to yield superhuman results in a variety of domains such as Chess, Go, Atari. Moreover, the MuZero algorithm does not require prior
 knowledge of domain dynamics, game rules, or
