@@ -1,4 +1,5 @@
-# deep_learning_final_project
+# DEEO LEARNING COMS4995 FINAL PROJECT REPO
+
 Deep Learning Final Project, Spring 2020, JS &amp; JS
 
 Repository for Deep Learning course at Columbia University, Spring 2020
