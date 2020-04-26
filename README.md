@@ -19,7 +19,12 @@ the MuZero methodology. With Traveling Salesperson Problem (TSP) as an evaluatio
 at a manageable scale, we seek to demonstrate
 state-of-the-art performance with MuZero.
 
+Notebook to run: MuZero-TSP-April-26
+* run all cells sequentially 
+
 5. References
 [1] Schrittwieser, Julian, et al. ”Mastering atari, go, chess
 and shogi by planning with a learned model.” arXiv preprint
 arXiv:1911.08265 (2019).
+[2]  https://github.com/werner-duvaud/muzero-general
+
