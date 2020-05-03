@@ -24,9 +24,4 @@ The following report will  demonstrate the progress and current outcomes of the 
 Notebook to run: MuZero_TSP_final
 * run all cells sequentially 
 
-5. References
-[1] Schrittwieser, Julian, et al. ”Mastering atari, go, chess
-and shogi by planning with a learned model.” arXiv preprint
-arXiv:1911.08265 (2019).
-[2]  https://github.com/werner-duvaud/muzero-general
-
+Refrences - find in 'Restricted Muzero TSP' report 
